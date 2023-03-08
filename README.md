@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQHR9d2oED7Uew/profile-displaybackgroundimage-shrink_350_1400/0/1672813111147?e=1683763200&v=beta&t=-N0aNZCvQUat3ivA_BlTYlXAu4DE0c_eyz5Khy3wz9s)](www.muneebfarrukh.com)
 
-<h1 align="center">Hi 👋, I'm Muneeb</h1>
+<h1 align="center">Hi👋🏼, I'm Muneeb</h1>
 <h3 align="center">Software Engineering Student at the University of Waterloo</h3>
 
 <img align="right" width="350" src="https://cdn.discordapp.com/attachments/611609751545053261/1082875310577565797/computer_screen_gif.gif">
