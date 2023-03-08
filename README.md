@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
 <h3 align="center">Software Engineering Student at the University of Waterloo</h3>
 
-<img align="right" width="400" src="https://i.pinimg.com/originals/68/51/e4/6851e47b16ca7bced899cc404a672db6.gif">
+<img align="right" width="400" src="![image](https://user-images.githubusercontent.com/67203473/223615161-b9f79bff-af14-44a3-a64c-2973c791b286.png)">
 
 
 - 🔭 I’m currently working on **a Chatroom App**
