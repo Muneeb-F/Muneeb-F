@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [www.muneebfarrukh.com](www.muneebfarrukh.com)
+- 👨‍💻 All of my projects are available at <a href="www.muneebfarrukh.com">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
