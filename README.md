@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
 <h3 align="center">Software Engineering Student at the University of Waterloo</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/611609751545053261/1082867171270606908/SmartSelect_20230307_222712_Chrome.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.discordapp.com/attachments/611609751545053261/1082867171270606908/SmartSelect_20230307_222712_Chrome.gif">
 
 - 🔭 I’m currently working on **a Chatroom App**
 
