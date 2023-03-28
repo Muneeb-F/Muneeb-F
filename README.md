@@ -20,5 +20,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muneeb-f/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muneeb-f/" height="30" width="40" /></a>
-<a href="https://www.muneebfarrukh.com/" target="blank"><img align="center" src="https://drive.google.com/file/d/1Qp2buwzWMBUZ58OQy-569ngT4pETEuH5/view?usp=sharing" height="300" width="400" /></a>
 </p>
