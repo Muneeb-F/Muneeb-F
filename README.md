@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **PetPalz, Instagram for Pets**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at www.muneebfarrukh.com<a href="www.muneebfarrukh.com"/> 
 
