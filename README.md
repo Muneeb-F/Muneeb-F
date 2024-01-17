@@ -6,7 +6,7 @@
 <img align="right" width="300" src="https://cdn.discordapp.com/attachments/611609751545053261/1082875310577565797/computer_screen_gif.gif">
 
 
-- 🔭 I’m currently working on **PetPalz, Instagram for Pets**
+- 🔭 I’m currently working on **AI Research at NUS-ISS**
 
 - 🌱 I’m currently learning **Machine Learning**
 
