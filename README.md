@@ -6,7 +6,7 @@
 <img align="right" width="300" src="https://cdn.discordapp.com/attachments/611609751545053261/1082875310577565797/computer_screen_gif.gif">
 
 
-- 🔭 I’m currently studying at the **Universoty of Waterloo**
+- 🔭 I’m currently looking for an internship for **Fall 2024 and Summer 2025**
 
 - 🌱 I’m currently delved in **Machine Learning**
 
