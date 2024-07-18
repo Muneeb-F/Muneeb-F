@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently working as a **Machine Learning R&D Engineer** at Mycro Harvest Inc<a href="https://www.mycroharvest.com/"/>
 
-- 👨‍💻 All of my projects are available at www.muneebfarrukh.com<a href="https://www.mycroharvest.com"/>
-
--  👨‍💻 All of my projects are available at www.muneebfarrukh.com<a href="www.muneebfarrukh.com"/> 
+- 👨‍💻 All of my projects are available at www.muneebfarrukh.com<a href="www.muneebfarrukh.com"/>
 
 <!--https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg-->
 <h3 align="left">Languages and Tools:</h3>
