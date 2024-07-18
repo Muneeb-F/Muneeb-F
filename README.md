@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently looking for **Summer 2025** internships  
 
-- 🌱 I’m currently working as a **Machine Learning R&D Engineer** at Mycro Harvest Inc<a href="www.mycroharvest.com" />
+- 🌱 I’m currently working as a **Machine Learning R&D Engineer** at Mycro Harvest Inc<a href="[www.mycroharvest.com](https://www.mycroharvest.com/)" />
 
 - 👨‍💻 All of my projects are available at www.muneebfarrukh.com<a href="www.muneebfarrukh.com"/> 
 
