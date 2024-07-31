@@ -6,7 +6,7 @@
 <img align="right" width="300" src="https://cdn.discordapp.com/attachments/611609751545053261/1082875310577565797/computer_screen_gif.gif">
 
 
-- 🔭 I’m currently looking for **Summer 2025** internships  
+- 🔭 I’m currently looking for **Spring 2025** internships  
 
 - 🌱 I’m currently working as a **Machine Learning R&D Engineer** at Mycro Harvest Inc<a href="https://www.mycroharvest.com/"/>
 
