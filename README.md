@@ -6,9 +6,9 @@
 <img align="right" width="300" src="https://cdn.discordapp.com/attachments/611609751545053261/1082875310577565797/computer_screen_gif.gif">
 
 
-- 🔭 I’m currently looking for **Spring 2025** internships  
+- 🔭 I’m currently looking for **Winter 2026** internships  
 
-- 🌱 I’m currently working Studying at **uWaterloo** <a href="https://www.uwaterloo.ca/"/>
+- 🍎 I’m currently working at **Apple** as a **Machine Learning Engineer** <a href="https://www.apple.com/"/>
 
 - 👨‍💻 All of my projects are available at www.muneebfarrukh.com<a href="www.muneebfarrukh.com"/>
 
