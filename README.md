@@ -6,7 +6,7 @@
 <img align="right" width="300" src="https://cdn.discordapp.com/attachments/611609751545053261/1082875310577565797/computer_screen_gif.gif">
 
 
-- 🔭 I’m currently looking for **Summer 2026** internships  
+- 🔭 I’m currently looking for new grad roles starting in May 2027  
 
 - 🍎 I’m currently studying **Software Engineering (Senior Year)** at the **University of Waterloo** <a href="https://www.apple.com/"/>
 
